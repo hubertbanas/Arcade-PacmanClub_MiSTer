@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------------
+-- 
+-- Arcade: Pacman Club for MiSTer by Sorgelig
+-- 22 November 2017
+-- 
+---------------------------------------------------------------------------------
+-- A simulation model of Pacman hardware
+-- Copyright (c) MikeJ - Feb 2007
+---------------------------------------------------------------------------------
+-- 
+-- Support screen and controls rotation on HDMI output.
+-- Only controls are rotated on VGA output.
+-- 
+-- Supports 2 players at the same time.
+-- 
+-- Keyboard inputs :
+--
+--   F1          : Start 1/2 players
+--   F2          : Start 2/4 players
+--   F3          : Coin
+--   UP,DOWN,LEFT,RIGHT arrows : Movements
+--
+-- Joystick support.
+-- 
+---------------------------------------------------------------------------------
